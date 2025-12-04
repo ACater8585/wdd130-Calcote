@@ -3,3 +3,5 @@ It features detailed loadouts, weapon tips, and class builds for games like Dest
 Visitors can explore guides, read expert insights, and share their own setups with the community. 
 What makes RPG Nexus unique is its glowing futuristic design and deep focus on helping players 
 craft the perfect builds for every mission and playstyle.
+
+https://acater8585.github.io/wdd130-Calcote/
