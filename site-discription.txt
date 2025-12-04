@@ -1,5 +1,7 @@
-My website, RPG Nexus, is a neon-themed hub dedicated to RPG build guides and player strategies. 
-It features detailed loadouts, weapon tips, and class builds for games like Destiny 2 and other shooter RPGs. 
-Visitors can explore guides, read expert insights, and share their own setups with the community. 
-What makes RPG Nexus unique is its glowing futuristic design and deep focus on helping players 
-craft the perfect builds for every mission and playstyle.
+RPG Nexus is a neon-lit hub dedicated entirely to Destiny 2 builds. 
+We break down the strongest loadouts, meta weapons, subclass synergies, 
+and mission-ready setups for every activity — from Strikes to Grandmasters. 
+Explore expert guides, discover community-created builds, and fine-tune your Guardian 
+in a glowing futuristic space made for theory crafters and hardcore Destiny players.
+
+Jr. Dev: Charles Garthe(Builds page), Chirst KOUAKOU(Guides page)
